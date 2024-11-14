@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WISE\\source\\repos\\KPLC PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB957AD-5224-475A-AF43-06262F616A00}|KPLC PROJECT\\KPLC PROJECT.vbproj|c:\\users\\wise\\source\\repos\\kplc project\\kplc project\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1CB957AD-5224-475A-AF43-06262F616A00}|KPLC PROJECT\\KPLC PROJECT.vbproj|solutionrelative:kplc project\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB957AD-5224-475A-AF43-06262F616A00}|KPLC PROJECT\\KPLC PROJECT.vbproj|c:\\users\\wise\\source\\repos\\kplc project\\kplc project\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1CB957AD-5224-475A-AF43-06262F616A00}|KPLC PROJECT\\KPLC PROJECT.vbproj|solutionrelative:kplc project\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB957AD-5224-475A-AF43-06262F616A00}|KPLC PROJECT\\KPLC PROJECT.vbproj|c:\\users\\wise\\source\\repos\\kplc project\\kplc project\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1CB957AD-5224-475A-AF43-06262F616A00}|KPLC PROJECT\\KPLC PROJECT.vbproj|solutionrelative:kplc project\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB957AD-5224-475A-AF43-06262F616A00}|KPLC PROJECT\\KPLC PROJECT.vbproj|c:\\users\\wise\\source\\repos\\kplc project\\kplc project\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1CB957AD-5224-475A-AF43-06262F616A00}|KPLC PROJECT\\KPLC PROJECT.vbproj|solutionrelative:kplc project\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form9.vb",
+              "DocumentMoniker": "C:\\Users\\WISE\\source\\repos\\KPLC PROJECT\\KPLC PROJECT\\Form9.vb",
+              "RelativeDocumentMoniker": "KPLC PROJECT\\Form9.vb",
+              "ToolTip": "C:\\Users\\WISE\\source\\repos\\KPLC PROJECT\\KPLC PROJECT\\Form9.vb",
+              "RelativeToolTip": "KPLC PROJECT\\Form9.vb",
+              "ViewState": "AgIAACMAAAAAAAAAAAAMwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T08:29:36.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form7.vb",
+              "DocumentMoniker": "C:\\Users\\WISE\\source\\repos\\KPLC PROJECT\\KPLC PROJECT\\Form7.vb",
+              "RelativeDocumentMoniker": "KPLC PROJECT\\Form7.vb",
+              "ToolTip": "C:\\Users\\WISE\\source\\repos\\KPLC PROJECT\\KPLC PROJECT\\Form7.vb",
+              "RelativeToolTip": "KPLC PROJECT\\Form7.vb",
+              "ViewState": "AgIAADkAAAAAAAAAAIAywEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T08:28:41.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form7.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\WISE\\source\\repos\\KPLC PROJECT\\KPLC PROJECT\\Form7.vb",
+              "RelativeDocumentMoniker": "KPLC PROJECT\\Form7.vb",
+              "ToolTip": "C:\\Users\\WISE\\source\\repos\\KPLC PROJECT\\KPLC PROJECT\\Form7.vb [Design]",
+              "RelativeToolTip": "KPLC PROJECT\\Form7.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T08:28:39.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form9.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\WISE\\source\\repos\\KPLC PROJECT\\KPLC PROJECT\\Form9.vb",
+              "RelativeDocumentMoniker": "KPLC PROJECT\\Form9.vb",
+              "ToolTip": "C:\\Users\\WISE\\source\\repos\\KPLC PROJECT\\KPLC PROJECT\\Form9.vb [Design]",
+              "RelativeToolTip": "KPLC PROJECT\\Form9.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T08:24:51.49Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
